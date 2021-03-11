@@ -18,6 +18,7 @@ To clone this git repository.
 To build:
 
 ```
+    mkdir build
     cd build
     cmake ..
     make
